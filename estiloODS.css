@@ -1,0 +1,55 @@
+
+html, body{
+    margin: 0;
+}
+#imagem_fundo{
+    background: url(img/1.jpg);
+     height:100%;
+     text-align: center;
+    background-size:cover
+}
+#titulo{
+    
+    font-size: 50px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding-top: 9%;
+    padding-left: 35%;    
+}
+#mensagem{
+    color: white;
+}
+#subtitulo{
+    color: rgb(255, 255, 255);
+    font-family:'Courier New', Courier, monospace;
+    padding-left: 55%; 
+}
+#botao{
+    color: white;
+    border: 1px white solid;
+    padding: 10 20 10 20;
+    margin-left: 55%;
+}
+.centralizado{
+    text-align: center;
+}
+.justificado{
+    text-align: justify;
+}
+.dois{
+    width: 40%;
+}
+.coluna{
+    float:left ;
+    padding: 0 5%;
+    position: relative; 
+}
+#paragrafo{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding-bottom: 100px;
+}
+.escola{
+width: 51px;
+}
+.quatro{
+    width: 15%;
+}
